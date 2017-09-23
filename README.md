@@ -1,1 +1,3 @@
 # algorithm
+
+用JavaScript实现常用的算法，补充中...
